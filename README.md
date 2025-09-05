@@ -12,12 +12,12 @@
 
 ## 📊 My GitHub Stats  
 
-![Jagjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Jagjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagjeetSingh&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JagjeetSingh&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=5)  
+![GitHub Streak](https://streak-stats.demolab.com?user=JagjeetSingh&theme=radical&border_radius=5)  
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=JagjeetSingh&label=Profile%20views&color=0e75b6&style=flat)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=JagjeetSingh&theme=radical&no-frame=true&margin-w=5)
